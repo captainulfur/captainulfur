@@ -41,12 +41,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devblp&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=captainulfur&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainulfur&theme=radical&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devblp&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainulfur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
 
 ---
