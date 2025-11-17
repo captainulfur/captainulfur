@@ -12,8 +12,6 @@
 
 ---
 
-##  Tech Stack  
-
 ###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,tailwindcss,threejs" />
