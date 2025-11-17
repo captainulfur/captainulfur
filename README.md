@@ -6,35 +6,35 @@
 
 ---
 
-## 🚀 About Me  
-✨ Programmer & Web Developer with experience in multiple areas of software development.  
-🔥 Always curious about new technologies and excited to work on challenging projects.  
+##  About Me  
+ Programmer & Web Developer with experience in multiple areas of software development.  
+ Always curious about new technologies and excited to work on challenging projects.  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,materialui,tailwindcss,threejs" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb" />
 </p>
 
-### 🎭 UI/UX
+###  UI/UX
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-## 📫 Contact Me  
+##  Contact Me  
 
-- 📧 [Email](mailto:dev.sinanp@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sina-nasibparst)  
+-  [Email](mailto:dev.sinanp@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/sina-nasibparst)  
 
 ---
 
