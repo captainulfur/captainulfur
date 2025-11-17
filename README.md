@@ -1,4 +1,4 @@
-<div>
+<div style={{display:"flex-row"}}>
 <p>
   <img src="https://github.com/captainulfur/captainulfur/blob/main/image/m2.svg" />
 </p>
