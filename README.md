@@ -1,8 +1,4 @@
 <div >
-<p>
-  <img src="https://github.com/captainulfur/captainulfur/blob/main/image/m2.svg" />
-</p>
-
  <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sina</h1>
 
 <p align="center">
@@ -40,10 +36,6 @@
 -  [LinkedIn](https://www.linkedin.com/in/sina-nasibparst)  
 
 ---
-
-<p>
-  <img src="https://github.com/captainulfur/captainulfur/blob/main/image/m1.svg" />
-</p>
 
 ⭐️ Thank you for visiting my profile! 🌟
 </div>
